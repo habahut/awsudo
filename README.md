@@ -58,6 +58,8 @@ AWS_DEFAULT_REGION=us-east-1
 AWS_SECRET_ACCESS_KEY=rkCLOMJMx2DbGoGySIETU8aRFfjGxgJAzDJ6Zt+3
 ```
 
+    note -- if you are getting permission denied (publickey) for pip installation try ```sudo pip install git+git://github.com/paperg/awsudo.git```
+
 ## Configuring Profiles
 
 If you have roles your account can assume, you can configure profiles so `aws`
